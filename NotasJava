@@ -1,0 +1,112 @@
+javac <.class>
+
+java <sem o .class>
+
+
+
+#Classes:
+-Descrição de um grupo de objetos
+
+1.Nome da classe
+2.Conjunto de atributos (Descrição)
+3.Conjunto de métodos (comportamento)
+
+Ex: 
+1.Cachorro
+2.grupo, porte, peso, altura 
+3.comer, dormir, brincar, correr
+
+#Objetos 
+-Objeto é uma instancia de uma classe
+*Herança:
+-Permite reutilização da estrutura edo comportamento de uma classe
+
+#Polimorfismo: 
+
+*Java: pacotes
+-Forma de organizar suas classes
+
+-Convenção: dominio + projeto + pasta
+Ex: com.loiane.cursojava.aula90
+
+#Variável:
+-Área de memória associada a um nome, que pode armazenar valores de um determinado tipo
+
+#Declara uma variável
+-<tio> <nome da variável>;
+-<tio> <nome da variável> = <valor>;
+
+#Convenção de Nomenclatura
+-a-z A-z_&
+-a-z A-z_&0-9
+-CamelCase
+
+
+#Tipos Primitivos
+-boolean: Veradadeiro ou Falso
+*Números
+>Inteiro:
+-byte
+-short
+-int 
+-long
+-char
+>Ponto Flutuante
+-float
+-double
+
+#Operadores Aritiméticos
++ adição
+- subtração
+* multiplicação
+/ divisão
+% módulo
+++ incremento
+-- decremento
+
+#Operadores Relacionais:
+== igual a
+!= diferente de 
+> maior que
+< menor que
+>= maior ou igual que
+<= menor ou igual que
+
+#Operadores Lógicos:
+& AND
+| OR
+^ XOR
+|| OR curto  circuito 
+&& AND curto circuito
+! NOT
+
+IF (se)
+IF - ELSE (se - senâo)
+Múltiplos if - else
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
