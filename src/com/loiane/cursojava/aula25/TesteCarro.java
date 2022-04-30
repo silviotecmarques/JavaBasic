@@ -1,0 +1,17 @@
+package com.loiane.cursojava.aula25;
+
+public class TesteCarro {
+
+    public static void main(String[] args) {
+
+        Carro van = new Carro();
+
+        van.marca = "Fiat";
+        van.modelo = "Ducato";
+        van.numPassageiro = 10;
+        van.capCambustivel = 100;
+        van.consumoCombustivel = 0.2;
+
+        van.exibirAutonomia();
+    }
+}
