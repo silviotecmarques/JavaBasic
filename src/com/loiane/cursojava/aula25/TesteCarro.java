@@ -9,7 +9,7 @@ public class TesteCarro {
         van.marca = "Fiat";
         van.modelo = "Ducato";
         van.numPassageiro = 10;
-        van.capCambustivel = 100;
+        van.capCombustivel = 100;
         van.consumoCombustivel = 0.2;
 
         van.exibirAutonomia();

@@ -5,11 +5,11 @@ public class Carro {
     String marca;
     String modelo;
     int numPassageiro;
-    double capCambustivel;
+    double capCombustivel;
     double consumoCombustivel;
 
     void exibirAutonomia() {
 
-        System.out.println("Autonomia do carro é: "+ capCambustivel * consumoCombustivel + " Km");
+        System.out.println("Autonomia do carro é: "+ capCombustivel * consumoCombustivel + " Km");
     }
 }
