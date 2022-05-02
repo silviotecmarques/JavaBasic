@@ -17,5 +17,6 @@ public class Tabuada {
             System.out.println("Soma: "+max+" = "+(num*max));
             max++;
         }
+
     }
 }
