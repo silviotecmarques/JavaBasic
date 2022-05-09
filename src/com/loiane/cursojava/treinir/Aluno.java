@@ -1,4 +1,4 @@
-package com.loiane.cursojava.training;
+package com.loiane.cursojava.treinir;
 
 import java.util.UUID;
 
