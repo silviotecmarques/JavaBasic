@@ -1,20 +1,21 @@
-package com.loiane.cursojava.aula17;
+package com.loiane.cursojava.pratica;
 
 import java.util.Scanner;
 
-public class Tabuada {
+public class TabuadaWhile {
 
     public static void main(String[] args) {
+
+        int i = 1;
 
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Digite um número:");
         int num = scan.nextInt();
 
-        for (int max = 1 ; max <=10; max++) {
-            System.out.println("Soma: "+max+" = "+(max*num));
-
+        while (i <= 10){
+            System.out.println("Soma: " + num + "x" +i+" = "+(num*i));
+            i++;
         }
     }
 }
-
