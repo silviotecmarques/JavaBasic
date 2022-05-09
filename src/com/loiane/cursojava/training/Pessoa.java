@@ -1,4 +1,4 @@
-package com.loiane.cursojava.treinir;
+package com.loiane.cursojava.training;
 
 public class Pessoa {
 
