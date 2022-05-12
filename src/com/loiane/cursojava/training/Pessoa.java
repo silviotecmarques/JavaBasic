@@ -2,6 +2,7 @@ package com.loiane.cursojava.training;
 
 public class Pessoa {
 
+    public String matricular;
     private String matricula;
     private String nome;
 

@@ -38,14 +38,17 @@ public class Carro {
     }
 
     public void setCapCombustivel( double capCombustivel){
+
         this.capCombustivel = capCombustivel;
     }
 
     public double getConCombustivel(){
+
         return this.conCombustivel;
     }
 
     public void setConCombustivel(double conCombustivel){
+
         this.conCombustivel = conCombustivel;
     }
 
