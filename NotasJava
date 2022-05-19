@@ -90,6 +90,17 @@ For (Inicialização; Expressão; Atualização)
 Get:obter valo
 Set:atribuir valor
 
+Herança:
+É uma ou É um
+
+Ex:
+Super classe Pessoa (nome, telefone)
+Tem atributos em comum
+classe Aluno - É uma
+classe Professor - É uma
+classe Cachorro - não é
+
+
 
 
 
